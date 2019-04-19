@@ -1,0 +1,33 @@
+
+.container {
+    display:block;
+    margin: 0 auto;    
+    margin-top: 20px;
+    max-width: 80%;
+    background-color: rgb(245, 245, 245);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.container h1 {
+    display: block;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em; 
+    color:#fff;
+    background: rgb(7, 92, 78);
+    padding: 20px;
+    text-align: center;
+}
+
+.container h2 {    
+    font-size: 1.5rem; 
+    color:rgb(7, 92, 78);
+    padding: 20px;
+}
+
+.container p{
+    padding:20px;
+    font-size: 1.1rem;
+    line-height: 2rem;
+}
